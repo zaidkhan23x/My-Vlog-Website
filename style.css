@@ -1,0 +1,150 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+header h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+header{
+    background-color: rgb(17, 124, 143);
+    padding: 30px;
+
+}
+
+nav{
+    background-color: #333;
+    overflow: hidden;
+}
+
+nav a{
+    text-decoration: none;
+    padding: 15px;
+    text-align: center;
+    float: left;
+    color: white;
+}
+nav a:hover{
+color: rgb(188, 201, 8);
+}
+body{
+    margin: 0;
+    background-color: antiquewhite;
+}
+main{
+    background-color: white;
+    text-align: center;
+}
+label{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#city{
+    padding: 10px;
+}
+form{
+    display: inline-block;
+}
+.div1st{
+    width: 500px;
+    height: 150px;
+    padding: 20px;
+    background-color:aquamarine;
+}
+#submitbotton{
+    color: green;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left: 100px;
+}
+hr{
+    border-style:none; 
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: gray;
+}
+
+th{
+    padding-right: 200px;
+    width: 200px;
+}
+.center{
+    position: relative;
+    padding-top: 0;
+    left: 100px;
+    bottom: 10px;
+    
+}
+div{
+    background-color:azure;
+    padding-bottom: 0px;
+    height: 190px;
+    position: relative;
+    bottom: 10px;
+}
+
+.smallline{
+    border-style:none; 
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: black;
+    width: 130px;
+    position: relative;
+    bottom: 20px;   
+}
+#lastline{
+    margin: 0;
+    height: 1px;
+    background-color: black;
+    border: none;
+}
+.footer{
+    background-color:#096ebb;
+    padding-top: 10px;
+    margin: 0;
+    height: 9rem;
+}
+.twitterimg{
+    width: 2rem;
+    margin-top: 0.7rem;
+    margin-bottom: 0;
+    margin-right: 25px;
+    border: 2px solid white;
+}
+.linkedinimg{
+    width: 2rem;
+    margin-bottom: 0;
+    margin-left: 25px;
+    margin-right: 25px;
+    border: 2px solid white;
+}
+
+.blogger{
+    width: 2rem;
+    margin-left: 35px;
+    border:2px solid white  ;
+}
+.copyright{
+    font-size: 0.7rem;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    color: #EAF6F6;
+}
+.contactus{
+    font-weight: normal;
+    display: inline;
+    font-size: 1rem;
+    
+}
+#contactus{
+    color: black;
+    margin-right: 20px;
+    text-decoration: none;
+}
+#contactus:hover{
+    color:gray ;
+}
+.help:hover{color: gray;}
